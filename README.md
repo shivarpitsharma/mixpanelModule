@@ -18,7 +18,7 @@ repositories {
 **Step 2** : Add the dependency : 
 ```
 dependencies {
-	 implementation 'com.github.shivarpitsharma:mixpanelModule:Tag'
+	 implementation 'com.github.shivarpitsharma:mixpanelModule:v1.0'
 }
 ```  
 **Step 3** : Setup Mixpanel project and generate token from [here](https://mixpanel.com/login/):
