@@ -4,7 +4,7 @@ Utility module for MixPanel integration
 ## Mixpanel Analytics
 Mixpanel helps you analyze user behavior across your sites with Real-Time Cohort Analysis. The integration of the Mixpanel API in android required to post events on the mixpanel project. The current project provides utilities that one would require to integrate this analytics tool into android project.
 
-## To include this in you project 
+## To include this in your project 
 
 **Step 1** : First add the JitPack repository to your build file :
 
