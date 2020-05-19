@@ -5,7 +5,10 @@ import android.content.Context
 import com.mixpanel.android.mpmetrics.MixpanelAPI
 import org.json.JSONObject
 
-object MixPanelService {
+/**
+ * Access to object restricted outside module
+ */
+internal object MixPanelService {
     @SuppressLint("StaticFieldLeak")
     var mixpanelApi: MixpanelAPI? = null
 

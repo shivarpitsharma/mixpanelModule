@@ -6,4 +6,8 @@ object MixPanelConstants {
     const val KEY_REF = "ref"
     const val KEY_ERROR_CODE = "error_code"
     const val KEY_BACK_PRESSED = "back_pressed"
+    const val SCREEN_VIEWED = "Screen Viewed"
+    const val VIEWED = "Viewed"
+    const val KEY_TIME_SPENT = "time_spent"
+    const val SCREEN_NAME = "Screen Name"
 }
